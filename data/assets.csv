@@ -1,0 +1,21 @@
+asset_id,asset_type,section,location,criticality,current_condition
+TRK001,Track,S01,KM_101,5,Maintenance Required
+TRK002,Track,S02,KM_118,4,Maintenance Required
+TRK003,Track,S03,KM_132,5,Maintenance Required
+TRK004,Track,S04,KM_149,2,Maintenance Required
+TRK005,Track,S05,KM_165,5,Maintenance Required
+TRK006,Track,S06,KM_181,4,Maintenance Required
+TRK007,Track,S07,KM_198,3,Maintenance Required
+SIG001,Signal,S01,KM_103,5,Maintenance Required
+SIG002,Signal,S02,KM_120,4,Maintenance Required
+SIG003,Signal,S03,KM_135,3,Maintenance Required
+SIG004,Signal,S04,KM_151,4,Maintenance Required
+SIG005,Signal,S05,KM_168,3,Maintenance Required
+SIG006,Signal,S06,KM_184,4,Maintenance Required
+SIG007,Signal,S07,KM_201,2,Maintenance Required
+OHE001,OHE,S01,KM_105,4,Maintenance Required
+OHE002,OHE,S02,KM_122,3,Maintenance Required
+OHE003,OHE,S03,KM_137,4,Maintenance Required
+OHE004,OHE,S04,KM_153,3,Maintenance Required
+OHE005,OHE,S05,KM_170,4,Maintenance Required
+OHE006,OHE,S06,KM_186,5,Maintenance Required
